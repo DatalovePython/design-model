@@ -9,6 +9,9 @@ import java.io.Reader;
  * @author luzc
  * @date 2021/3/2 16:25
  * @desc 统计一个文本文件种有多少个字符
+ * 这是反例，都藕合在一起 了。
+ * 特点：
+ *  1. 代码
  */
 public class AppTest {
     public static void main(String[] args) throws IOException {
